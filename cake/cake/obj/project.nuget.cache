@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzlNmhwQMBckR9ZUBkcnpiMFnOUugUIRevL0lOG0kqiOFZkIt+4BsW2RYH7hEowpSzUezZQWbMSvAvXOABsifw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roma\\Desktop\\cake\\cake\\cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roma\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
