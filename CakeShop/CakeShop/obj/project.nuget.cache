@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9nVzBFQW3pyajnQLEDM1RbH5mrCq6nyO5Pw9gXEYuHrqkIZ7vK8i7LOsl3UoN/z+/R1W6tdJP5rCLjSoxy3fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olivka\\source\\repos\\CakeShop\\CakeShop\\CakeShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olivka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"Newtonsoft.Json\" 12.0.3 есть известная уязвимость https://github.com/advisories/GHSA-5crp-9r3c-p9vr (уровень серьезности: высокий)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

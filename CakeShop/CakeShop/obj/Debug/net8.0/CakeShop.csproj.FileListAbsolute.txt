@@ -1,0 +1,17 @@
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\bin\Debug\net8.0\CakeShop.exe
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\bin\Debug\net8.0\CakeShop.deps.json
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\bin\Debug\net8.0\CakeShop.runtimeconfig.json
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\bin\Debug\net8.0\CakeShop.dll
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\bin\Debug\net8.0\CakeShop.pdb
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.AssemblyInfoInputs.cache
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.AssemblyInfo.cs
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.csproj.CoreCompileInputs.cache
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.dll
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\refint\CakeShop.dll
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.pdb
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.genruntimeconfig.cache
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\ref\CakeShop.dll
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.csproj.AssemblyReference.cache
+C:\Users\Olivka\source\repos\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.csproj.CopyComplete
